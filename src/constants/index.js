@@ -1,4 +1,4 @@
-export const apiKey = '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'
+export const apiKey = process.env.REACT_APP_API_KEY
 
 export const dummyMessages = [
     {
